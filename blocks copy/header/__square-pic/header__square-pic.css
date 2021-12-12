@@ -1,0 +1,9 @@
+.header__square-pic {
+  background-image: url(../../../images/square.svg);
+  background-size: cover;
+  width: 568px;
+  height: 568px;
+  position: absolute;
+  right: 0;
+  top: 64px;
+}
