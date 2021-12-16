@@ -1,4 +1,6 @@
 .cards {
+  list-style: none;
+  padding: 0;
   margin: auto;
   display: flex;
   flex-flow: row wrap;

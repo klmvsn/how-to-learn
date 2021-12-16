@@ -4,7 +4,12 @@
   font-weight: normal;
   color: #fff;
   text-decoration: none;
+  display: inline-block;
   margin-bottom: 10px;
+}
+
+.footer__column-link:last-child {
+  margin-bottom: 0;
 }
 
 .footer__column-link:hover {
